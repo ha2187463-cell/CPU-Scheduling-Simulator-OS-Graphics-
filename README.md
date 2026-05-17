@@ -69,6 +69,3 @@ The simulator generates:
 - Average values displayed clearly
 
 ---
-### 1. Install requirements
-```bash
-pip install matplotlib
